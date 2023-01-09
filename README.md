@@ -1,6 +1,6 @@
-###Hello 👋, Im GodModule.
+Hello 👋, Im GodModule.
 
-godmodule#8361
+discord: godmodule#8361
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=godmodule&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/godmodule)
 
